@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/doko/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/config"
 )
 
 // EnableSite enables automatic backup for a site
