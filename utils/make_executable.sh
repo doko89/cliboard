@@ -9,5 +9,6 @@ chmod +x utils/build.sh
 chmod +x utils/make_executable.sh
 chmod +x utils/fix_go_mod.sh
 chmod +x utils/fix_all_dependencies.sh
+chmod +x utils/fix_go_sum.sh
 
 echo "Scripts are now executable."
