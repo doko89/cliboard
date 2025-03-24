@@ -3,9 +3,9 @@
 # Navigate to project root
 cd "$(dirname "$0")/.."
 
-# Run the dependency fix script first
-echo "Running dependency fix script..."
-./utils/fix_dependencies.sh
+# Make sure dependencies are fixed
+echo "Fixing dependencies..."
+./utils/fix_go_mod.sh
 
 # Set variables
 VERSION=${VERSION:-"1.0.0"}
