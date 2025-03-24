@@ -1,0 +1,24 @@
+# Binaries
+/dist
+/bin
+/cliboard
+
+# Dependency directories
+/vendor
+
+# Go workspace file
+go.work
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
