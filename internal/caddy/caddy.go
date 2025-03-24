@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/doko/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/config"
 )
 
 // Reload reloads the Caddy server

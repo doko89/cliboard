@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/doko/cliboard/internal/module"
+	"github.com/doko89/cliboard/internal/module"
 	"github.com/spf13/cobra"
 )
 

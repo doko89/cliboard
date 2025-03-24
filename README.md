@@ -7,7 +7,7 @@ CLIBoard is a CLI-based web control panel that helps manage servers/VPS using Ca
 Run the following command to install CLIBoard:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/doko/cliboard/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/doko89/cliboard/main/install.sh | sudo bash
 ```
 
 ## Features

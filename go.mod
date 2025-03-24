@@ -1,4 +1,4 @@
-module github.com/doko/cliboard
+module github.com/doko89/cliboard
 
 go 1.21
 

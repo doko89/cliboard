@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/doko/cliboard/internal/caddy"
-	"github.com/doko/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/caddy"
+	"github.com/doko89/cliboard/internal/config"
 )
 
 // Enable enables PHP for a site with the specified version

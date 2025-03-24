@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/doko/cliboard/internal/php"
+	"github.com/doko89/cliboard/internal/php"
 	"github.com/spf13/cobra"
 )
 

@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/doko/cliboard/internal/caddy"
-	"github.com/doko/cliboard/internal/config"
-	"github.com/doko/cliboard/internal/utils"
+	"github.com/doko89/cliboard/internal/caddy"
+	"github.com/doko89/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/utils"
 )
 
 // Create creates a new site with the given domain

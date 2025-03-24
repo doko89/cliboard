@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/doko/cliboard/internal/config"
-	"github.com/doko/cliboard/internal/site"
+	"github.com/doko89/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/site"
 	"github.com/spf13/cobra"
 )
 

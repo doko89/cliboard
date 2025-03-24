@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/doko/cliboard/cmd"
+	"github.com/doko89/cliboard/cmd"
 )
 
 func main() {

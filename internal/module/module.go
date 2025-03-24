@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/doko/cliboard/internal/caddy"
-	"github.com/doko/cliboard/internal/config"
+	"github.com/doko89/cliboard/internal/caddy"
+	"github.com/doko89/cliboard/internal/config"
 )
 
 // Add adds a module to a site configuration

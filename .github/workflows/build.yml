@@ -45,7 +45,7 @@ jobs:
           BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           COMMIT_SHA=$(git rev-parse --short HEAD)
           go build -o dist/cliboard-${{ matrix.goos }}-${{ matrix.goarch }} \
-            -ldflags "-X github.com/doko/cliboard/cmd.Version=$VERSION -X github.com/doko/cliboard/cmd.BuildDate=$BUILD_DATE -X github.com/doko/cliboard/cmd.CommitSHA=$COMMIT_SHA" \
+            -ldflags "-X github.com/doko89/cliboard/cmd.Version=$VERSION -X github.com/doko89/cliboard/cmd.BuildDate=$BUILD_DATE -X github.com/doko89/cliboard/cmd.CommitSHA=$COMMIT_SHA" \
             main.go
 
       - name: Upload Artifact
